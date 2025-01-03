@@ -3,7 +3,7 @@ import openai
 from openai import OpenAIError
 
 # Set your OpenAI API key
-openai.api_key = "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"  # OpenAI API key
+openai.api_key = "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"  # OpenAI API key
 
 # Add context for resume and role understanding
 RESUME_CONTEXT = """
