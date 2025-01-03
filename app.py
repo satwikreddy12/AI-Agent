@@ -71,7 +71,7 @@ I am applying for the AI Development Intern position with FutureMakers, and I be
    - As a Math Tutor, I can understand the challenges educators face, enabling me to design user-centered features,and include necessary features for the better understanding of the students.
 
 3. **Projects**:
-   - My work on projects like "Sentiment Analysis of Electric Vehicle Reviews" showcases my ability to extract actionable insights and build intuitive tools.
+   - My work on projects like "Sentiment Analysis of Electric Vehicle Reviews" and machine learning projects showcases my ability to extract actionable insights and build intuitive tools.We have worked on using gpt models as LLM for the project.
 
 4. **Problem-Solving**:
    - My professional experience in developing data models and machine learning models and scalable workflows demonstrates my ability to deliver effective solutions for Readyness.
@@ -79,7 +79,7 @@ I am applying for the AI Development Intern position with FutureMakers, and I be
 
 # App Header
 st.title("Satwik Reddy Ala - AI Development Intern Application")
-st.subheader("Explore my qualifications, experience, and alignment with FutureMakers' goals.")
+st.subheader("Explore my qualifications, experience, and my Allignment with you! ")
 
 # Navigation Sidebar
 menu = st.sidebar.radio(
@@ -156,7 +156,7 @@ elif menu == "Ask the AI Agent":
                     temperature=0.7
                 )
                 ai_response = response['choices'][0]['message']['content']
-                st.write("**AI Agent's Response:**")
+                st.write("** Here's what we have !!:**")
                 st.write(ai_response)
             except OpenAIError as e:
                 st.write(f"An error occurred: {e}")
