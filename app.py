@@ -156,7 +156,7 @@ elif menu == "Ask the AI Agent":
                     temperature=0.7
                 )
                 ai_response = response['choices'][0]['message']['content']
-                st.write("** Here's what we have !!:**")
+                st.write("Here's what we have !!")
                 st.write(ai_response)
             except OpenAIError as e:
                 st.write(f"An error occurred: {e}")
