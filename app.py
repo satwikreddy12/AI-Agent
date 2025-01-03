@@ -57,22 +57,24 @@ As an AI Development Intern, responsibilities include:
 - Creating features for data collection, generating preparation materials, and aligning projects with NGSS and CASEL standards.
 - Incorporating learning engineering and adult learning strategies to optimize educator confidence.
 - Designing intuitive interfaces and conducting user testing to refine features.
+
+Note: I am currently applying for this position and am excited to bring my skills and experiences to contribute to the success of the Readyness platform.
 """
 
 HOW_YOU_FIT = """
-Satwik Reddy Ala is an ideal fit for FutureMakers' Readyness project because:
+I am applying for the AI Development Intern position with FutureMakers, and I believe my background, skills, and experiences make me a strong candidate. Here's how I fit:
 1. **AI/ML Expertise**:
    - My experience with sentiment analysis and ML models aligns with the need for AI-driven tools that support educators.
    - Proficiency in Python, PySpark, and OpenAI's GPT models supports the development of scalable, AI-powered solutions.
 
 2. **Educational Understanding**:
-   - As a Math Tutor, I can understand the challenges educators face, enabling me to design user-centered features.
+   - As a Math Tutor, I can understand the challenges educators face, enabling me to design user-centered features,and include necessary features for the better understanding of the students.
 
 3. **Projects**:
    - My work on projects like "Sentiment Analysis of Electric Vehicle Reviews" showcases my ability to extract actionable insights and build intuitive tools.
 
 4. **Problem-Solving**:
-   - My professional experience in developing data pipelines and scalable workflows demonstrates my ability to deliver effective solutions for Readyness.
+   - My professional experience in developing data models and machine learning models and scalable workflows demonstrates my ability to deliver effective solutions for Readyness.
 """
 
 # App Header
