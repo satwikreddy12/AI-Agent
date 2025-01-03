@@ -1,9 +1,10 @@
 import streamlit as st
 import openai
+import os
 from openai import OpenAIError
 
 # Set your OpenAI API key
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # Add context for resume and role understanding
 RESUME_CONTEXT = """
