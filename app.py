@@ -3,7 +3,7 @@ import openai
 from openai import OpenAIError
 
 # Set your OpenAI API key
-openai.api_key = "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"  # Replace with your actual OpenAI API key
+openai.api_key = "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"  # OpenAI API key
 
 # Add context for resume and role understanding
 RESUME_CONTEXT = """
@@ -61,17 +61,17 @@ As an AI Development Intern, responsibilities include:
 HOW_YOU_FIT = """
 Satwik Reddy Ala is an ideal fit for FutureMakers' Readyness project because:
 1. **AI/ML Expertise**:
-   - His experience with sentiment analysis and ML models aligns with the need for AI-driven tools that support educators.
+   - My experience with sentiment analysis and ML models aligns with the need for AI-driven tools that support educators.
    - Proficiency in Python, PySpark, and OpenAI's GPT models supports the development of scalable, AI-powered solutions.
 
 2. **Educational Understanding**:
-   - As a Math Tutor, he understands the challenges educators face, enabling him to design user-centered features.
+   - As a Math Tutor, I can understand the challenges educators face, enabling me to design user-centered features.
 
 3. **Projects**:
-   - His work on projects like "Sentiment Analysis of Electric Vehicle Reviews" showcases his ability to extract actionable insights and build intuitive tools.
+   - My work on projects like "Sentiment Analysis of Electric Vehicle Reviews" showcases his ability to extract actionable insights and build intuitive tools.
 
 4. **Problem-Solving**:
-   - His professional experience in developing data pipelines and scalable workflows demonstrates his ability to deliver effective solutions for Readyness.
+   - My professional experience in developing data pipelines and scalable workflows demonstrates his ability to deliver effective solutions for Readyness.
 """
 
 # App Header
