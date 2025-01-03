@@ -68,10 +68,10 @@ Satwik Reddy Ala is an ideal fit for FutureMakers' Readyness project because:
    - As a Math Tutor, I can understand the challenges educators face, enabling me to design user-centered features.
 
 3. **Projects**:
-   - My work on projects like "Sentiment Analysis of Electric Vehicle Reviews" showcases his ability to extract actionable insights and build intuitive tools.
+   - My work on projects like "Sentiment Analysis of Electric Vehicle Reviews" showcases my ability to extract actionable insights and build intuitive tools.
 
 4. **Problem-Solving**:
-   - My professional experience in developing data pipelines and scalable workflows demonstrates his ability to deliver effective solutions for Readyness.
+   - My professional experience in developing data pipelines and scalable workflows demonstrates my ability to deliver effective solutions for Readyness.
 """
 
 # App Header
