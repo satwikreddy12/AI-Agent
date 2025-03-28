@@ -1,6 +1,9 @@
 ### 🤖<b>About the Project<b/><br/>
 The AI Portfolio Agent is a Streamlit-based AI-powered chatbot that serves as an interactive portfolio. It leverages GPT to answer any questions about my background, education, work experience, and projects. Instead of browsing through a traditional portfolio, users can directly ask the AI agent about my qualifications, skills, and career journey.<br/>
 
+![image](https://github.com/user-attachments/assets/7de87b6a-527f-4598-9821-cd5e6c04de7f)
+
+
 ### 🚀 Features
 🏫 Education Details – Provides insights into my academic background.<br/>
 
